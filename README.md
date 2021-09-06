@@ -9,7 +9,7 @@
 - 🏎️ **Fast**: From submitting and matching orders to withdrawing funds, OPEX can easily compete with other top players on the market.
 - 🔣 **Open Source**: The project is MIT licensed, "really" Open source, and also using free open source middlewares. Everybody can use the code freely or contribute to improve it.
 
-## 🐱‍👓🐱‍🚀🐱‍💻 Who is the team behind OPEX?
+## 👨‍💻👨🏽‍💻👩🏻‍💻 Who is the team behind OPEX?
 
 The technologist people behind OPEX are professional software developers and product designers with proven experiences and extensive backgrounds in Blockchain and Banking software development.
 It is worth noting that the core team's dream is to make this project more collaborative and finally a full-fledged community-based project.
@@ -17,6 +17,6 @@ It is worth noting that the core team's dream is to make this project more colla
 ## 🧱 What are the subprojects of OPEX?
 
 Right now, the OPEX project is divided into these sub-projects:
-- 🖧 **OPEX core**: The cryptocurrency exchange core engine
+- ☷ **OPEX core**: The cryptocurrency exchange core engine
 - 💻 **OPEX Web APP**: A feature-rich React JS web application for cryptocurrency exchange service.
 - 🔱 **OPEX God Admin**: Web-based administration panel with multi-level user access to manage the cryptocurrency exchange.
