@@ -17,6 +17,6 @@ It is worth noting that the core team's dream is to make this project more colla
 ## 🧱 What are the subprojects of OPEX?
 
 Right now, the OPEX project is divided into these sub-projects:
-- **OPEX core**: The cryptocurrency exchange core engine
-- **OPEX Web APP**: A feature-rich React JS web application for cryptocurrency exchange service.
-- **OPEX God Admin**: Web-based administration panel with multi-level user access to manage the cryptocurrency exchange.
+- 🖧 **OPEX core**: The cryptocurrency exchange core engine
+- 💻 **OPEX Web APP**: A feature-rich React JS web application for cryptocurrency exchange service.
+- 🔱 **OPEX God Admin**: Web-based administration panel with multi-level user access to manage the cryptocurrency exchange.
