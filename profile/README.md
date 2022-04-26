@@ -1,5 +1,4 @@
-# About
-## 🧐 OPEX?
+# 🧐 OPEX?
 **OPEX** is an OPen source EXchange platform for cryptocurrencies. Feature-wise, OPEX has everything cryptocurrency exchanges have, including user account onboarding, user management, wallet management, matching engine, and deposit/withdraw gateways. Moreover, from the performance and security viewpoint, the project can compete with the industry's top players due to the team's background in the enterprise banking and payment sector.
 
 ## 🤔 Why use OPEX?
